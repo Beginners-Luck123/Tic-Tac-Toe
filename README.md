@@ -39,4 +39,4 @@ Current Board:
  -------
 3|-|-|-|
  -------
-Show em who's boss!```
+Show em who's boss!
