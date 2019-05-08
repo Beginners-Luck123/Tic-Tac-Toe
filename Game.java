@@ -54,11 +54,7 @@ public static void main(String[] args)
 		}
 		while(!TicTacToe.placeMark(row, col));
 		TicTacToe.changePlayer();
-		  if((row > 3 || row < 1) && (col2 != 'A' || col2 != 'B' || col2 != 'C') || TicTacToe.placeMark(row, col))
-		  {
-			  System.out.println ("Try Again Buddy");
-		  }
-	
+		
 		
 	}
 	
